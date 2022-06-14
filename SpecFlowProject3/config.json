@@ -1,0 +1,9 @@
+{
+	"report_html_path": "C:/Users/lenovo/Desktop/Reports/htmlReports/report.html",
+	"chrome_driver_path": "D:/",
+	"mongodb_port": 27017,
+	"mongodb_ip": "localhost",
+	"klov_server_ip": "http://localhost",
+	"klov_server_port": 8077,
+	"svm_model_ip": "http://127.0.0.1:5000/true_value"
+}
