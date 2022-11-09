@@ -11,7 +11,7 @@ namespace SpecFlowProject3.email
     {
         public static void SendMail(string[] adresses, string subject, string message)
         {
-            Console.WriteLine("aaaaaaaaaaaaaaaaaaaaaaa");
+           
             try
             {
                 MailMessage mail = new MailMessage();
